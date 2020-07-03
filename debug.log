@@ -1,0 +1,4 @@
+[0703/132042.123:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\LECHEV~1.MOR\AppData\Local\Temp\scoped_dir12268_902684624\Crashpad: The system cannot find the file specified. (0x2)
+[0703/132624.678:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\LECHEV~1.MOR\AppData\Local\Temp\scoped_dir10704_1794647341\Crashpad: The system cannot find the file specified. (0x2)
+[0703/135151.271:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\LECHEV~1.MOR\AppData\Local\Temp\scoped_dir5588_2036721645\Crashpad: The system cannot find the file specified. (0x2)
+[0703/142854.007:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\LECHEV~1.MOR\AppData\Local\Temp\scoped_dir11940_704811112\Crashpad: The system cannot find the file specified. (0x2)

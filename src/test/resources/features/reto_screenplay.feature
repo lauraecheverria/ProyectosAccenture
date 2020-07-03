@@ -2,14 +2,11 @@
 
 
 @Regresion
-Característica: ssss
+Característica: Abrir el archivo de pdf Tarifas de Cuentas Depositos
 
   @RealizarReto
-  Esquema del escenario:sssss
-    Dado
-    Cuando
-    Entonces
-
-    Ejemplos:
-    ||
-    ||
+  Escenario:Requiero abrir el documento de PDF en la página de Banistmo
+    Dado el usuario desea abrir el navegador
+    Cuando el selecciona la opcion de Tarifario
+    Y el selecciona el documento que desea abrir
+    Entonces se debe mostrar el PDF abierto
