@@ -2,16 +2,14 @@
 
 
 @Regresion
-Característica:
+Característica: ssss
 
   @RealizarReto
-  Esquema del escenario:
-    Dado
-    Cuando
-    Y
-    Y
-    Entonces
+  Esquema del escenario:sssss
+    Dado ingresar al navegador
+    Cuando leo esto
+    Entonces veo eso
 
     Ejemplos:
-    |ciudad_destino|
-    |Cartagena|
+    |mmm|
+    |<kmm>|

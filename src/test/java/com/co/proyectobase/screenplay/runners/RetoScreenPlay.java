@@ -7,9 +7,9 @@ import net.serenitybdd.cucumber.CucumberWithSerenity;
 
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions(
-        features="src/test/resources/feature/reto_screenplay.feature",
+        features="src/test/resources/features/reto_screenplay.feature",
         tags="@RealizarReto",
-        glue="co.com.bancolombia.certificacion.administraciondesitio.stepdefinitions",
+        glue="com.co.proyectobase.screenplay.stepdefinitions",
         snippets=SnippetType.CAMELCASE		)
 
 public class RetoScreenPlay {

@@ -2,16 +2,14 @@
 
 
 @Regresion
-Característica:
+Característica: ssss
 
   @RealizarReto
-  Esquema del escenario:
+  Esquema del escenario:sssss
     Dado
     Cuando
-    Y
-    Y
     Entonces
 
     Ejemplos:
-    |ciudad_destino|
-    |Cartagena|
+    ||
+    ||
